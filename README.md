@@ -1,1 +1,1 @@
-# Yaz-l-m-M-hendisli-ine-Giri-
+İstanbul Kalkınma Ajansı'nın (İSTKA) desteğiyle yürütülen "İGÜ Siber Akademi" projesinde Yazılım Mühendisliğine Giriş dersi içerisinde anlatımı gerçekleştirilen notlar Öğr. Gör. Çisem YAŞAR tarafından oluşturulmuştur.
