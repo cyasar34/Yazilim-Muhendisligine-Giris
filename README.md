@@ -8,4 +8,7 @@
 ## Bu Github paylaşımının IEEE ve APA formatlarınada atıf verilme şekli:
 - IEEE--> C. Yasar, "Yazilim-Muhendisligine-Giris." GitHub, [Online]. Erişim Linki: https://github.com/cyasar34/Yazilim-Muhendisligine-Giris Son Erişim Tarihi: Gün Ay Yıl.
 - APA--> Yasar, C. (2024). Yazilim-Muhendisligine-Giris[GitHub Deposu]. GitHub. Erişim Linki: https://github.com/cyasar34/Yazilim-Muhendisligine-Giris Son Erişim Tarihi: Gün Ay Yıl.
-
+  
+> **Proje Durumu:** İlgili dokümanların paylaşımı ders kapsamında gerçekleştirilmiştir. GitHub bölümünden beğeni bildirimi olarak bir yıldız vererek çalışmalarımı destekleyebilirsiniz. 
+> **Katkıda Bulunma:** Dokümanlarınızda kullanılacaksanız ilgili atıf yöntemlerini kullanmanız ve haber vermeniz çok önemlidir. 
+> **Lisans:** MIT Lisansı altında yayımlandı
