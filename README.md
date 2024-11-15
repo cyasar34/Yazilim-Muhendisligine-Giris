@@ -26,6 +26,6 @@
 - IEEE--> C. Yasar, “Yazilim-Muhendisligine-Giris.” GitHub, [Online]. Access Link: https://github.com/cyasar34/Yazilim-Muhendisligine-Giris Last Accessed Date: Day Month Year.
 - APA--> Yasar, C. (2024). Yazilim-Muhendisligine-Giris[GitHub Repository]. GitHub. Access Link: https://github.com/cyasar34/Yazilim-Muhendisligine-Giris Last Accessed: Day Month Year.
 
-**Project Status:** The sharing of the relevant documents was realized within the scope of the course. You can support my work by giving a star as a thumbs up notification from the GitHub section. 
-> Contribution:** It is very important that you use the appropriate citation methods and notify us if you will be used in your documents. 
-**License:** Released under MIT License
+> **Project Status:** The sharing of the relevant documents was realized within the scope of the course. You can support my work by giving a star as a thumbs up notification from the GitHub section. 
+> **Contribution:** It is very important that you use the appropriate citation methods and notify us if you will be used in your documents. 
+> **License:** Released under MIT License
