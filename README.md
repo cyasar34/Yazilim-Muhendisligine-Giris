@@ -1,4 +1,4 @@
-**İstanbul Kalkınma Ajansı'nın (İSTKA) desteğiyle yürütülen "İGÜ Siber Akademi" projesinde Yazılım Mühendisliğine Giriş dersi içerisinde anlatımı gerçekleştirilen notlar Öğr. Gör. Çisem YAŞAR tarafından oluşturulmuştur.**
+**İstanbul Kalkınma Ajansı'nın (İSTKA) desteğiyle yürütülen "İGÜ Siber Akademi" projesinde Yazılım Mühendisliğine Giriş dersi kapsamında anlatımı gerçekleştirilen notlar Öğr. Gör. Çisem YAŞAR tarafından oluşturulmuştur.**
 
 ## Bu Çalışmayı Oluşturulması İçin Kullanılan Referans Kaynaklar:
 - Bilişimde Sistem Analizi ve Tasarımı, Oya H. YÜREGİR, Nobel Kitabevi , ISBN: 975-85-61-05-7
